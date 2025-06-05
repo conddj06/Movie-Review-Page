@@ -1,0 +1,40 @@
+** start of index.html **
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Rise Beyond</title>
+ </head>
+<body>
+    <main>
+        <h1>Rise Beyond</h1>
+
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/rise-beyond-2.png" 
+            alt="Poster for the movie Rise Beyond showing a futuristic landscape with a hero standing tall."
+            />
+        
+        <p> In a world on the brink of collapse, one hero must rise against all odds to restore hope and unity. *Rise Beyond*   
+                is a thrilling sci-fi epic filled with action, emotion, and resilience.</p>
+        <p>
+            <strong>Movie Rating:</strong>
+            <span aria-hidden="true">⭐⭐⭐⭐⭐⭐⭐⭐⭐☆</span>
+            (9.2/10)
+        </p>
+
+        <h2>Cast Members</h2>
+        <ul>
+            <li><strong>James Holloway</strong> as Ethan Carter</li>
+            <li><strong>Amara Lin</strong> as Dr. Celeste Rayne </li>
+            <li><strong>Kai Mendes</strong> as Commander Rylan Voss</li>
+            <li><strong>Nora Blake</strong> as AI Unit Nova</li>
+            <li><strong>Luis Delgado</strong> as General Theron Ward</li>
+        </ul>
+    </main>
+</body>
+
+</html>
+
+** end of index.html **
+
